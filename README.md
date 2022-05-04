@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @vanshika1102
+- 👋 Hi, I’m @vanshika_agrawal
+- I am skilled in programming languages like C,C++,Java.
+- I also have thoruogh understanding of Data Structures and Algorithms.
+- I als practice competitive programming on platforms like codechef,leetcode and hackerrank.
 - 👀 I’m interested in android development and web development.
-- 🌱 I’m currently learning python and kotlin.
+-  My goal is to become a softwre developer.
 
 
 <!---
