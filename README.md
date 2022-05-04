@@ -2,8 +2,8 @@
 - I am skilled in programming languages like C,C++,Java.
 - I also have thoruogh understanding of Data Structures and Algorithms.
 - I als practice competitive programming on platforms like codechef,leetcode and hackerrank.
-- 👀 I’m interested in android development and web development.
--  My goal is to become a softwre developer.
+- I am interested in android development and web development.
+- My goal is to become a softwre developer.
 
 
 <!---
